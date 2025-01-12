@@ -1,6 +1,5 @@
-# Intune-Device-and-User-Add-and-Remove-Tool
 <h1 align="center">Hi 👋, I'm Harvansh Singh</h1>
-<h3 align="center"> Intune Device  and User Add and Remove Tool</h3>
+<h3 align="center"> Wellcome to my "Intune Device  and User Add and Remove Tool"</h3>
 <h3 align="left">Tool Pre-Requisites:-</h3>
 
 - Device should have Microsoft.graph Powersell module installed.
