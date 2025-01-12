@@ -1,5 +1,5 @@
 # Intune-Device-and-User-Add-and-Remove-Tool
-This is is used to add or remove Device and User from the group.
+This is used to add or remove Device and User from the group.
 Tool Feaures--
     Add multiple Devices to the group.
     Remove multiple Devices to the group.
