@@ -3,7 +3,7 @@
 <h3 align="left">Tool Pre-Requisites:-</h3>
 
 - Device should have Microsoft.graph Powersell module installed.
-- You have to login with Intune account.
+- You have to login with Intune account..
 
 <h3 align="left">Tool Features:-</h3>
 
